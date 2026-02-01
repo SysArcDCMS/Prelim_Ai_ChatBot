@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "371717001284",
+    "project_id": "ai-chat-bot-c2ba2",
+    "storage_bucket": "ai-chat-bot-c2ba2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371717001284:android:c88a9c28bed3a6e40d2c11",
+        "android_client_info": {
+          "package_name": "com.ai.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxUJGsSXd9BwHcZ2HYeTr0_L4OTHrUrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371717001284:android:63522733c34461fa0d2c11",
+        "android_client_info": {
+          "package_name": "com.example.chat_ai_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxUJGsSXd9BwHcZ2HYeTr0_L4OTHrUrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
